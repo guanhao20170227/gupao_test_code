@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
+
+    <!-- 1：定义任务的bean ，这里使用JobDetailFactoryBean,也可以使用MethodInvokingJobDetailFactoryBean ，配置类似-->
+    <bean name="myJob1" class="org.springframework.scheduling.quartz.JobDetailFactoryBean">
+        <!-- 指定 job 的名称 -->
+        <property name="name" value="my_job_1" />
+        <!-- 指定 job 的分组 -->
+        <property name="group" value="my_group" />
+        <!-- 指定 具体的 job 类 -->
+        <property name="jobClass" value="com.haohao.quartz.MyJob1" />
+        <!-- 必须设置成 true, 当 为 false 没有活动的触发器与之关联的时候, 会在调度器中删除该任务 -->
+        <property name="durability" value="true" />
+    </bean>
+
+    <bean name="myJob2" class="org.springframework.scheduling.quartz.JobDetailFactoryBean">
+        <!-- 指定 job 的名称 -->
+        <property name="name" value="my_job_2" />
+        <!-- 指定 job 的分组 -->
+        <property name="group" value="my_group" />
+        <!-- 指定 具体的 job 类 -->
+        <property name="jobClass" value="com.haohao.quartz.MyJob2" />
+        <!-- 必须设置成 true, 当 为 false 没有活动的触发器与之关联的时候, 会在调度器中删除该任务 -->
+        <property name="durability" value="true" />
+    </bean>
+
+    <!-- 定义 simpleTrigger -->
+    <bean name="simpleTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerFactoryBean">
+        <property name="name" value="my_trigger_1" />
+        <property name="group" value="my_group" />
+        <property name="jobDetail" ref="myJob1" />
+        <!-- 延迟一秒后执行 -->
+        <property name="startDelay" value="1000" />
+        <!-- 指定 trigger 重复的间隔 -->
+        <property name="repeatInterval" value="5000" />
+        <!-- 指定重复的次数 -->
+        <property name="repeatCount" value="2" />
+    </bean>
+
+    <!-- 定义 cronTrigger -->
+    <bean name="cronTrigger" class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
+        <property name="name" value="my_trigger_2" />
+        <property name="group" value="my_group" />
+        <property name="jobDetail" ref="myJob2" />
+        <!-- cron 表达式 -->
+        <property name="cronExpression" value="0/1 * * * * ?" />
+    </bean>
+
+    <!-- 配置 scheduler -->
+    <bean name="scheduler" class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+        <property name="triggers">
+            <list>
+                <!--<ref bean="simpleTrigger"></ref>
+                <ref bean="cronTrigger"></ref>-->
+            </list>
+        </property>
+    </bean>
+
+    <bean name="hwJob1" class="org.springframework.scheduling.quartz.JobDetailFactoryBean">
+        <!-- 指定 job 的名称 -->
+        <property name="name" value="hw_job_1" />
+        <!-- 指定 job 的分组 -->
+        <property name="group" value="hw_group" />
+        <!-- 指定 具体的 job 类 -->
+        <property name="jobClass" value="com.haohao.homework.MyJob1" />
+        <!-- 必须设置成 true, 当 为 false 没有活动的触发器与之关联的时候, 会在调度器中删除该任务 -->
+        <property name="durability" value="true" />
+
+        <!--<property name="concurrent" value="true" />-->
+    </bean>
+    <bean name="hwSimpleTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerFactoryBean">
+        <property name="name" value="hw_trigger_1" />
+        <property name="group" value="hw_group" />
+        <property name="jobDetail" ref="hwJob1" />
+        <!-- 延迟一秒后执行 -->
+        <!--<property name="startDelay" value="1000" />-->
+        <!-- 指定 trigger 重复的间隔 -->
+        <property name="repeatInterval" value="1000" />
+        <!-- 指定重复的次数 -->
+        <property name="repeatCount" value="10" />
+    </bean>
+
+</beans>
