@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.hungry;
+package com.haohao.c_singleton.hungry;
 /***
  *  饿汉式 单例的 第一种写法:
  *

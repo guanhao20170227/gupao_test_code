@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.threadlocal;
+package com.haohao.c_singleton.threadlocal;
 
 public class ThreadLocalSingleton {
 

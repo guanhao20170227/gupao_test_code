@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy;
+package com.haohao.c_singleton.lazy;
 
 /***
  * 创建多线程用于测试 懒汉式 Demo1 存在线程的问题;

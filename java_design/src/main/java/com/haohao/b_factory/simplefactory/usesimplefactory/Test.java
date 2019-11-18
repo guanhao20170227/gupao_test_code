@@ -1,7 +1,7 @@
-package main.java.com.haohao.b_factory.simplefactory.usesimplefactory;
+package com.haohao.b_factory.simplefactory.usesimplefactory;
 
-import main.java.com.haohao.b_factory.simplefactory.ICourse;
-import main.java.com.haohao.b_factory.simplefactory.JavaCourse;
+import com.haohao.b_factory.simplefactory.ICourse;
+import com.haohao.b_factory.simplefactory.JavaCourse;
 
 /***
  *  这个就是客户端的代码,
@@ -23,8 +23,8 @@ public class Test {
         javaCourse.record();*/
 
         // 方法3: 直接传递 clazz 对象
-        ICourse javaCourse = factory.create(JavaCourse.class); // 这样就不好了, 又引入了 JavaCourse.class 的类， 方法2、1 都是可以的
-        javaCourse.record();
+        // ICourse javaCourse = factory.create(JavaCourse.class); // 这样就不好了, 又引入了 JavaCourse.class 的类， 方法2、1 都是可以的
+        // javaCourse.record();
 
     }
 }

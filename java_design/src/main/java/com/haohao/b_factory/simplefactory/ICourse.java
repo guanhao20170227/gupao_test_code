@@ -1,4 +1,4 @@
-package main.java.com.haohao.b_factory.simplefactory;
+package com.haohao.b_factory.simplefactory;
 
 public interface ICourse {
 

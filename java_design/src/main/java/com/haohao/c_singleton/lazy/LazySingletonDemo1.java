@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy;
+package com.haohao.c_singleton.lazy;
 
 /***
  *  懒汉式加载, 在外部方法调用的时候才会加载

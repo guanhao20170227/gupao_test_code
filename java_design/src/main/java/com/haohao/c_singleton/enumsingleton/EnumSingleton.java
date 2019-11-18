@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.enumsingleton;
+package com.haohao.c_singleton.enumsingleton;
 
 public enum EnumSingleton {
 

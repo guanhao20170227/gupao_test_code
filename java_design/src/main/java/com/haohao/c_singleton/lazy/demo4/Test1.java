@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy.demo4;
+package com.haohao.c_singleton.lazy.demo4;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

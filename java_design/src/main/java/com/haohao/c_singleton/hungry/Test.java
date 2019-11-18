@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.hungry;
+package com.haohao.c_singleton.hungry;
 
 import java.lang.reflect.Constructor;
 

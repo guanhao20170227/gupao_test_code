@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy.demo2;
+package com.haohao.c_singleton.lazy.demo2;
 
 import main.java.com.haohao.c_singleton.lazy.MyThread;
 

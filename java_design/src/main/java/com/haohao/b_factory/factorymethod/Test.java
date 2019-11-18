@@ -1,4 +1,4 @@
-package main.java.com.haohao.b_factory.factorymethod;
+package com.haohao.b_factory.factorymethod;
 
 public class Test {
 

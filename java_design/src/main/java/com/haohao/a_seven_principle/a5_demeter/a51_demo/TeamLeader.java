@@ -1,4 +1,4 @@
-package main.java.com.haohao.a_seven_principle.a5_demeter.a51_demo;
+package com.haohao.a_seven_principle.a5_demeter.a51_demo;
 
 import java.util.List;
 

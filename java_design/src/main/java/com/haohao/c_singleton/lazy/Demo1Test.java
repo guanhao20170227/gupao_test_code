@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy;
+package com.haohao.c_singleton.lazy;
 
 public class Demo1Test {
 

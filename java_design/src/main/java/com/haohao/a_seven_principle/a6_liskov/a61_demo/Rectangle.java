@@ -1,4 +1,4 @@
-package main.java.com.haohao.a_seven_principle.a6_liskov.a61_demo;
+package com.haohao.a_seven_principle.a6_liskov.a61_demo;
 
 public class Rectangle {
 

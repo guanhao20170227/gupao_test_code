@@ -1,8 +1,8 @@
-package main.java.com.haohao.b_factory.simplefactory.nousesimplefactory;
+package com.haohao.b_factory.simplefactory.nousesimplefactory;
 
-import main.java.com.haohao.b_factory.simplefactory.ICourse;
-import main.java.com.haohao.b_factory.simplefactory.JavaCourse;
-import main.java.com.haohao.b_factory.simplefactory.PythonCourse;
+import com.haohao.b_factory.simplefactory.ICourse;
+import com.haohao.b_factory.simplefactory.JavaCourse;
+import com.haohao.b_factory.simplefactory.PythonCourse;
 
 /**
  *  使用 new JavaCourse() 来创建 Course

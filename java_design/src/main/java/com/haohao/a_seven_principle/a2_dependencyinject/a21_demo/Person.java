@@ -1,4 +1,4 @@
-package main.java.com.haohao.a_seven_principle.a2_dependencyinject.a21_demo;
+package com.haohao.a_seven_principle.a2_dependencyinject.a21_demo;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package main.java.com.haohao.a_seven_principle.a5_demeter.a52_upgrade1;
+package com.haohao.a_seven_principle.a5_demeter.a52_upgrade1;
 
 import java.util.ArrayList;
 import java.util.List;

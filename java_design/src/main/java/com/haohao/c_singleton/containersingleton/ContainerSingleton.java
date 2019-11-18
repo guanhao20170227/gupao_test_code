@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.containersingleton;
+package com.haohao.c_singleton.containersingleton;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

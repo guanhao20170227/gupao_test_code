@@ -1,4 +1,4 @@
-package main.java.com.haohao.c_singleton.lazy.demo5;
+package com.haohao.c_singleton.lazy.demo5;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package main.java.com.haohao.b_factory.simplefactory.usesimplefactory;
+package com.haohao.b_factory.simplefactory.usesimplefactory;
 
 import main.java.com.haohao.b_factory.simplefactory.ICourse;
 import main.java.com.haohao.b_factory.simplefactory.JavaCourse;
