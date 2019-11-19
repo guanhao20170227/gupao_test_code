@@ -21,7 +21,5 @@ public class Test {
         // System.out.println(deep1 == deep2);
         // System.out.println(deep1 == deep3);
         System.out.println(deep2 == deep3);
-
-
     }
 }
