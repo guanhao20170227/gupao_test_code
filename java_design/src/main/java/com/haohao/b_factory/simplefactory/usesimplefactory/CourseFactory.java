@@ -1,8 +1,8 @@
 package com.haohao.b_factory.simplefactory.usesimplefactory;
 
-import main.java.com.haohao.b_factory.simplefactory.ICourse;
-import main.java.com.haohao.b_factory.simplefactory.JavaCourse;
-import main.java.com.haohao.b_factory.simplefactory.PythonCourse;
+import com.haohao.b_factory.simplefactory.ICourse;
+import com.haohao.b_factory.simplefactory.JavaCourse;
+import com.haohao.b_factory.simplefactory.PythonCourse;
 
 public class CourseFactory {
 

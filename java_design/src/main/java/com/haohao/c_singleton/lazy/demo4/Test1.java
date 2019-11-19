@@ -11,7 +11,7 @@ public class Test1 {
     public static void main(String[] args) throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
 
         // 使用反射初始化对象;
-        Class clazz = LazySingletonDemo4.class;
+        /*Class clazz = LazySingletonDemo4.class;
         Constructor c = clazz.getDeclaredConstructor(null);
         c.setAccessible(true);
         Object o1 = c.newInstance();
@@ -19,6 +19,11 @@ public class Test1 {
         Object o2 = LazySingletonDemo4.getInstance();
 
         System.out.println(o1 == o2); // false
+        */
+        Object o2 = LazySingletonDemo4.getInstance();
+        Object o3 = LazySingletonDemo4.getInstance();
+        System.out.println(o2 == o3);
+
     }
 
 }

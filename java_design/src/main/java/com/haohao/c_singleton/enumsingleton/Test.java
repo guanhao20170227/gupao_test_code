@@ -1,6 +1,6 @@
 package com.haohao.c_singleton.enumsingleton;
 
-import main.java.com.haohao.c_singleton.lazy.demo5.SerializableSingleton;
+import com.haohao.c_singleton.lazy.demo5.SerializableSingleton;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
