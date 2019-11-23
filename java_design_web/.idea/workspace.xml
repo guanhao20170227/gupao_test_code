@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java_design_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8662b07d-c29b-47f3-951c-cbe410a55d75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/EmployeeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/EmployeeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/MyDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/SystemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_design_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_design_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaDiscountCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a21_demo/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a21_demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/AICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/UpgradeOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a3_simpleprinciple/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/IEatAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/IFlyAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/ISwimAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/INote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/ISource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/IVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/ICourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/nousesimplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/ContainerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/enumsingleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/enumsingleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/hungry/HungrySingletonDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/hungry/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/Demo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/LazySingletonDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/Demo2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/LazySingletonDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo3/LazySingletonDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo4/LazySingletonDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo4/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo5/SerializableSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/ThreadLocalSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/JinGuBang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/QiTianDaSheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/DeepCloneSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/ConcretePrototypeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/MyPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/CglibMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/CglibProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/JdkMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/DynamicDataSourceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderServiceDynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/JdkMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/DynamicDataSourceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderServiceStaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CashbackStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CouponStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/EmptyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/GroupbyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/IDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CashbackStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CouponStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/EmptyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/GroupbyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/UnionPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/WechatPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/.idea/java_design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/.idea/java_design.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/ContainerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/enumsingleton/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/enumsingleton/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/enumsingleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/enumsingleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/LazySingletonDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/LazySingletonDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quartz-java-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quartz-java-maven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quartz-java-maven/src/main/java/com/haohao/jdk/pool/ScheduledExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quartz-java-maven/src/main/java/com/haohao/jdk/pool/ScheduledExecutorTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="248108068">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="java" value="92" />
+          <entry key="jsp" value="2" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="92" />
+          <entry key="JSP" value="2" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="5679" />
+          <entry key="xml" value="278" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="JAVA" value="5679" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="278" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>discountKey</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MemberController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/IDiscountStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CashbackStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CouponStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/EmptyStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/GroupbyStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Payment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/UnionPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/WechatPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/JdkMeipo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/nousesimplefactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="74" />
+    <option name="width" value="1606" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="StringUtils&#9;PSI&#9;JAVA://org.apache.commons.lang3.StringUtils&#10;StringUtil&#9;PSI&#9;JAVA://com.sun.deploy.util.StringUtils" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574495469590" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\develop\code\idea_code\gupao_test_code\java_design_web\src\main\java\com\haohao\designpatterns" />
+      <recent name="I:\develop\code\idea_code\gupao_test_code\java_design_web\src\main\java\com\haohao\designpatterns\f_delegate\demo1" />
+      <recent name="I:\develop\code\idea_code\gupao_test_code\java_design_web\src\main\java\com\haohao\designpatterns\g_strategy\demo2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat8.0.53">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo2.Test" />
+      <module name="java_design_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo3.Test" />
+      <module name="java_design_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo1.Test" />
+      <module name="java_design_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo1.Test2" />
+      <module name="java_design_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="java_design_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_java_design_web" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55183" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="java_design_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat8.0.53" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8662b07d-c29b-47f3-951c-cbe410a55d75" name="Default Changelist" comment="" />
+      <created>1574410078635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574410078635</updated>
+      <workItem from="1574410081721" duration="9291000" />
+      <workItem from="1574469814713" duration="13315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="74" width="1606" height="941" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49753696" visible="true" weight="0.20245795" />
+      <window_info id="Structure" order="1" sideWeight="0.50246304" side_tool="true" weight="0.1630013" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44827586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4599109" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.37082404" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/GroupbyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/EmptyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CashbackStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/UnionPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeA.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/IEmployee.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Leader.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Boss.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/LazySingletonDemo1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/AICourse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/ISwimAnimal.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/CglibProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/JdkMeipo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/nousesimplefactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="96" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1780" column="67" selection-start-line="1780" selection-start-column="53" selection-end-line="1780" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>java_design_web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_design_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
