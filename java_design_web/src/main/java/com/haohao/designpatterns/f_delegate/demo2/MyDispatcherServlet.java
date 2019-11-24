@@ -20,7 +20,7 @@ public class MyDispatcherServlet extends HttpServlet {
      * @param resp
      * @throws IOException
      */
-    /*private void doDispatch(HttpServletRequest req, HttpServletResponse resp) throws IOException {
+    private void doDispatch(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         String uri = req.getRequestURI();
         String mid = req.getParameter("mid");
 
@@ -29,9 +29,9 @@ public class MyDispatcherServlet extends HttpServlet {
         } else if (uri.contains("getOrderById")) {
             new OrderController().getOrderById(mid);
         } else if (uri.contains("logout")) {
-            new SystemController().logout();
+            new SystemController().logout(null);
         } else {
             resp.getWriter().write("404, Not Found My.");
         }
-    }*/
+    }
 }
