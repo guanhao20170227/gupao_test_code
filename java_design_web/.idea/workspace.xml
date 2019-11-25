@@ -17,177 +17,33 @@
       <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/MyDispatcherServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/OrderController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/f_delegate/demo2/SystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_design_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_design_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a21_demo/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a21_demo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/AICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/UpgradeOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a3_simpleprinciple/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a41_demo/IAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/IEatAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/IFlyAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/ISwimAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a51_demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a5_demeter/a52_upgrade1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a6_liskov/a61_demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/INote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/ISource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/IVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/abstractfactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/ICourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/nousesimplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/ContainerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/containersingleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/enumsingleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/enumsingleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/hungry/HungrySingletonDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/hungry/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/Demo1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/LazySingletonDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/Demo2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/LazySingletonDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo3/LazySingletonDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo4/LazySingletonDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo4/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo5/SerializableSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/ThreadLocalSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/JinGuBang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/QiTianDaSheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepclone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/DeepCloneSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/ConcretePrototypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/MyPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/demo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/CglibMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/CglibProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/cglib/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/GPProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/gpself/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/JdkMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/DynamicDataSourceEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo2/OrderServiceDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/JdkMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/DynamicDataSourceEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/staticproxy/OrderServiceStaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CashbackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CouponStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/EmptyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/GroupbyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/IDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CashbackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CouponStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/EmptyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/GroupbyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/UnionPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/WechatPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MyJdbcTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/RowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/BigDataCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/NetworkCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/AC220V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/ElectricAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/IDC5V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/ResultMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/SignInService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/SignInWithThirdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/ILoginAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/IPasswordForThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForQQAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTelephoneAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTokenAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForWechatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/PasswordForThirdAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_design/.idea/java_design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/.idea/java_design.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/ContainerSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/containersingleton/MyThread.java" afterDir="false" />
@@ -197,6 +53,8 @@
       <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/LazySingletonDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/LazySingletonDemo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo4/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_design/src/main/java/com/haohao/c_singleton/lazy/demo5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quartz-java-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quartz-java-maven/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quartz-java-maven/src/main/java/com/haohao/jdk/pool/ScheduledExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quartz-java-maven/src/main/java/com/haohao/jdk/pool/ScheduledExecutorTest.java" afterDir="false" />
     </list>
@@ -212,48 +70,97 @@
     <session id="248108068">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ILoginAdapter" value="1" />
           <entry key="class" value="3" />
-          <entry key="java" value="92" />
+          <entry key="java" value="127" />
           <entry key="jsp" value="2" />
-          <entry key="xml" value="6" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="92" />
+          <entry key="JAVA" value="127" />
           <entry key="JSP" value="2" />
-          <entry key="XML" value="6" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="9" />
-          <entry key="dummy" value="10" />
-          <entry key="java" value="5679" />
-          <entry key="xml" value="278" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="10693" />
+          <entry key="xml" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="9" />
-          <entry key="JAVA" value="5679" />
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="XML" value="278" />
+          <entry key="JAVA" value="10693" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="279" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-766">
+              <caret line="70" column="34" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/SignInService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/PasswordForThirdAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" selection-start-line="5" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -275,19 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MemberController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/OrderController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/IDiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CashbackStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/CouponStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/EmptyStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/GroupbyStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Payment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java" />
@@ -302,15 +196,43 @@
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/JdkMeipo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/e_proxy/dynamicproxy/jdk/demo3/Girl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/usesimplefactory/CourseFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/simplefactory/nousesimplefactory/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/NetworkCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/BigDataCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/RowMapper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MyJdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MemberDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/AC220V.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/IDC5V.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/ElectricAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/LoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/SignInWithThirdService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/SignInService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/ILoginAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForQQAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForWechatAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTokenAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/IPasswordForThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTelephoneAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/PasswordForThirdAdapter.java" />
       </list>
     </option>
   </component>
@@ -334,11 +256,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="74" />
-    <option name="width" value="1606" />
-    <option name="height" value="941" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="636" />
+    <option name="y" value="65" />
+    <option name="width" value="1332" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -346,7 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -386,6 +307,45 @@
               <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="h_template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="i_adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="i_adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdlogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="i_adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdlogin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_design_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_design_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -409,13 +369,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="StringUtils&#9;PSI&#9;JAVA://org.apache.commons.lang3.StringUtils&#10;StringUtil&#9;PSI&#9;JAVA://com.sun.deploy.util.StringUtils" />
+    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;StringUtils&#9;PSI&#9;JAVA://org.apache.commons.lang3.StringUtils&#10;StringUtil&#9;PSI&#9;JAVA://com.sun.deploy.util.StringUtils" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574495469590" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574687411560" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -423,6 +384,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haohao.designpatterns.i_adapter.thirdlogin.demo2" />
+      <recent name="com.haohao.designpatterns.i_adapter.thirdlogin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="I:\develop\code\idea_code\gupao_test_code\java_design_web\src\main\java\com\haohao\designpatterns" />
       <recent name="I:\develop\code\idea_code\gupao_test_code\java_design_web\src\main\java\com\haohao\designpatterns\f_delegate\demo1" />
@@ -441,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat8.0.53">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo2.Test" />
       <module name="java_design_web" />
@@ -468,12 +433,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo1.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.h_template.networkcourse.Test" />
       <module name="java_design_web" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo1.*" />
+          <option name="PATTERN" value="com.haohao.designpatterns.h_template.networkcourse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,12 +446,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.g_strategy.demo1.Test2" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.i_adapter.electric.Test" />
       <module name="java_design_web" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haohao.designpatterns.g_strategy.demo1.*" />
+          <option name="PATTERN" value="com.haohao.designpatterns.i_adapter.electric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haohao.designpatterns.i_adapter.thirdlogin.demo2.Test" />
+      <module name="java_design_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haohao.designpatterns.i_adapter.thirdlogin.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -570,17 +548,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.tomcat8.0.53" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -598,17 +578,18 @@
       <option name="presentableId" value="Default" />
       <updated>1574410078635</updated>
       <workItem from="1574410081721" duration="9291000" />
-      <workItem from="1574469814713" duration="13315000" />
+      <workItem from="1574469814713" duration="15699000" />
+      <workItem from="1574667325740" duration="12268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22606000" />
+    <option name="totallyTimeSpent" value="37258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="74" width="1606" height="941" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49753696" visible="true" weight="0.20245795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49753696" visible="true" weight="0.23027718" />
       <window_info id="Structure" order="1" sideWeight="0.50246304" side_tool="true" weight="0.1630013" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -618,13 +599,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44827586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27505568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4599109" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32911393" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28730512" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.37082404" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -666,195 +647,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo1/DiscountActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/GroupbyStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/EmptyStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/CashbackStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/IDiscountStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/UnionPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/PayState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/DiscountStrategyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#227#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/WechatPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/AliPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeA.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/IEmployee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Leader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/Boss.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo1/EmployeeB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/b_factory/factorymethod/PythonCourse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/LazySingletonDemo1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/shallowclone/Client.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/lazy/demo2/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/d_prototype/deepcloneandsingleton/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/AICourse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a2_dependencyinject/a22_upgrade1/PythonCourse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a1_openandclose/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/a_seven_principle/a4_interfacesegregation/a42_upgrade1/ISwimAnimal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/c_singleton/threadlocal/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -900,21 +692,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/g_strategy/demo3/JDPay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,9 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,9 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -977,16 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,20 +769,523 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/SystemController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/f_delegate/demo2/MyDispatchServlet2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/NetworkCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/BigDataCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/networkcourse/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/RowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#380#579#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/MyJdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/h_template/jdbc/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/IDC5V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/ElectricAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/electric/AC220V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/ResultMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo2/SignInWithThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTokenAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForWechatAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForQQAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/LoginForTelephoneAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/IPasswordForThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/ILoginAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter</OriginalElement>
+          <nodes>
+            <node x="945.25" y="111.0">com.haohao.designpatterns.i_adapter.thirdlogin.SignInService</node>
+            <node x="0.0" y="192.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.IPasswordForThird</node>
+            <node x="657.7138888888887" y="0.0">com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg</node>
+            <node x="321.0451388888888" y="374.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.Test</node>
+            <node x="793.0" y="192.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForWechatAdapter</node>
+            <node x="566.0" y="192.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTelephoneAdapter</node>
+            <node x="378.99999999999994" y="192.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForQQAdapter</node>
+            <node x="489.99999999999994" y="111.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter</node>
+            <node x="176.99999999999994" y="192.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTokenAdapter</node>
+            <node x="521.4201388888888" y="293.0">com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.IPasswordForThird">
+              <point x="-87.5" y="-15.5" />
+              <point x="533.9201388888888" y="273.0" />
+              <point x="117.75" y="273.0" />
+              <point x="39.25" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTokenAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+              <point x="45.5" y="-15.5" />
+              <point x="313.49999999999994" y="162.0" />
+              <point x="503.09999999999997" y="162.0" />
+              <point x="-52.39999999999998" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.SignInService">
+              <point x="62.5" y="-15.5" />
+              <point x="683.9201388888888" y="263.0" />
+              <point x="1007.75" y="263.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTelephoneAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+              <point x="-51.75" y="-15.5" />
+              <point x="617.75" y="172.0" />
+              <point x="581.7" y="172.0" />
+              <point x="26.200000000000045" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForQQAdapter">
+              <point x="-37.5" y="-15.5" />
+              <point x="583.9201388888888" y="253.0" />
+              <point x="461.99999999999994" y="253.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.Test" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter">
+              <point x="18.0" y="-15.5" />
+              <point x="375.0451388888888" y="349.0" />
+              <point x="621.4201388888888" y="349.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTokenAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="-45.5" y="-15.5" />
+              <point x="222.49999999999994" y="71.0" />
+              <point x="675.8805555555555" y="71.0" />
+              <point x="-36.333333333333314" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTelephoneAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="51.75" y="-15.5" />
+              <point x="721.25" y="91.0" />
+              <point x="712.2138888888887" y="91.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.Test" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.IPasswordForThird">
+              <point x="-18.0" y="-15.5" />
+              <point x="339.0451388888888" y="349.0" />
+              <point x="39.25" y="349.0" />
+              <point x="-39.25" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForWechatAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+              <point x="-47.25" y="-15.5" />
+              <point x="840.25" y="162.0" />
+              <point x="607.8999999999999" y="162.0" />
+              <point x="52.39999999999998" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.SignInService" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="31.25" y="-15.5" />
+              <point x="1039.0" y="61.0" />
+              <point x="748.5472222222222" y="61.0" />
+              <point x="36.33333333333337" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForQQAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+              <point x="41.5" y="-15.5" />
+              <point x="503.49999999999994" y="172.0" />
+              <point x="529.3" y="172.0" />
+              <point x="-26.19999999999999" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForQQAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="-41.5" y="-15.5" />
+              <point x="420.49999999999994" y="81.0" />
+              <point x="687.9916666666666" y="81.0" />
+              <point x="-24.22222222222223" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTelephoneAdapter">
+              <point x="12.5" y="-15.5" />
+              <point x="633.9201388888888" y="243.0" />
+              <point x="669.5" y="243.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.IPasswordForThird" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="0.0" y="-15.5" />
+              <point x="78.49999999999994" y="61.0" />
+              <point x="663.7694444444444" y="61.0" />
+              <point x="-48.44444444444446" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForTokenAdapter">
+              <point x="-62.5" y="-15.5" />
+              <point x="558.9201388888888" y="263.0" />
+              <point x="267.99999999999994" y="263.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter">
+              <point x="-12.5" y="-15.5" />
+              <point x="608.9201388888888" y="243.0" />
+              <point x="555.5" y="243.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForWechatAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="47.25" y="-15.5" />
+              <point x="934.75" y="81.0" />
+              <point x="724.3249999999998" y="81.0" />
+              <point x="12.111111111111086" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.LoginForWechatAdapter">
+              <point x="37.5" y="-15.5" />
+              <point x="658.9201388888888" y="253.0" />
+              <point x="887.5" y="253.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.PasswordForThirdAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="87.5" y="-15.5" />
+              <point x="708.9201388888888" y="273.0" />
+              <point x="1080.75" y="273.0" />
+              <point x="1080.75" y="51.0" />
+              <point x="760.6583333333333" y="51.0" />
+              <point x="48.44444444444446" y="15.5" />
+            </edge>
+            <edge source="com.haohao.designpatterns.i_adapter.thirdlogin.demo3.ILoginAdapter" target="com.haohao.designpatterns.i_adapter.thirdlogin.ResultMsg">
+              <point x="0.0" y="-15.5" />
+              <point x="555.5" y="91.0" />
+              <point x="700.1027777777776" y="91.0" />
+              <point x="-12.111111111111086" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="367.5" y="137.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-766">
+          <caret line="70" column="34" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/SignInService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haohao/designpatterns/i_adapter/thirdlogin/demo3/PasswordForThirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
