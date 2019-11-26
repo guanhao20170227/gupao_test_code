@@ -56,6 +56,13 @@
       <version>7.0</version>
     </dependency>
 
+    <!-- Guava 是用于实现观察者模式  -->
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>23.0</version>
+    </dependency>
+
 
     <!--  pie add those jar  end  -->
 
